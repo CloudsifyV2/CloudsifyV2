@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cloudsify</h1>
 <h3 align="center">A very passionate developer who loves writing code. I guess!?</h3>
 
-<p align="left"> <a href="https://twitter.com/_Cloudsify" target="blank"><img src="https://img.shields.io/twitter/follow/cloudsify?logo=twitter&style=for-the-badge" alt="cloudsify" /></a> </p>
+- 🔭 I’m currently working on **Project 2 Web Development**
 
-- 🔭 I’m currently working on **SourMC**
-
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **cloudsify@cloudsify.dev**
 
